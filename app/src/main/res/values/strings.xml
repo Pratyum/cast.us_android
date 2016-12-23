@@ -13,7 +13,8 @@
         completions."
     </string>
 
-    <string name="facebook_app_id">246718852389623</string>
+    <string name="facebook_app_id">158565031292923</string>
+    <string name="fb_login_protocol_scheme">fb158565031292923</string>
 
 
     <!-- API Strings -->

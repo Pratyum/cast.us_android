@@ -97,7 +97,7 @@ public class APICall {
         String inputLine = "";
 
             String url = BaseURL + api_id;
-
+            Log.d("TEST_URL",url );
             try {
                 URL e = new URL(url);
                 HttpURLConnection connection = (HttpURLConnection)e.openConnection();
