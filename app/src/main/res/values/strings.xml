@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">cast.us</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="facebook_app_id">246718852389623</string>
+
+
+    <!-- API Strings -->
+    <string name="API_server_time">server_time</string>
+
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Info</string>
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates how to record video using Camera2 API.
+
+
+        ]]>
+    </string>
+    <string name="healthCheck">"healthCheck/"</string>
+    <string name="pick_color">Choose Friend</string>
+</resources>
